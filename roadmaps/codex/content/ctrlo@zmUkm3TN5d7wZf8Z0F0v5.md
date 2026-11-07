@@ -4,4 +4,4 @@
 
 Visit the following resources to learn more:
 
-- [@official@Slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli)
+- [@official@CLI interactive shortcuts](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-interactive-shortcuts)

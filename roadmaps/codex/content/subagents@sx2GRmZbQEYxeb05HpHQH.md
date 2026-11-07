@@ -4,4 +4,5 @@
 
 Visit the following resources to learn more:
 
+- [@official@CLI built-in slash commands](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-built-in-slash-commands)
 - [@official@Subagents](https://learn.chatgpt.com/docs/agent-configuration/subagents)

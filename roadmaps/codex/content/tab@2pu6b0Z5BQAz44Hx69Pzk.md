@@ -4,4 +4,5 @@ Pressing `Tab` while Codex is running queues a follow-up prompt, slash command o
 
 Visit the following resources to learn more:
 
+- [@official@CLI interactive shortcuts](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-interactive-shortcuts)
 - [@official@Prompting](https://learn.chatgpt.com/docs/prompting)

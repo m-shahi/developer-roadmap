@@ -4,4 +4,4 @@ Archiving hides a saved session from the picker without deleting it, and you can
 
 Visit the following resources to learn more:
 
-- [@official@CLI commands and flags](https://learn.chatgpt.com/docs/developer-commands?surface=cli)
+- [@official@codex archive and codex unarchive](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-codex-archive-and-codex-unarchive)

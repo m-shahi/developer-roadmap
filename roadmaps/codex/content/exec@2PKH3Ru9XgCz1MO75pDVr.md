@@ -4,4 +4,5 @@
 
 Visit the following resources to learn more:
 
+- [@official@codex exec](https://learn.chatgpt.com/docs/developer-commands?surface=cli#cli-codex-exec)
 - [@official@Non-interactive mode](https://learn.chatgpt.com/docs/non-interactive-mode)
